@@ -1,3 +1,5 @@
+UI for All 24 as an app - https://8wv2fkeh8wm3.trickle.host/ (Variation 1)
+UI for All 24 as an app - https://jolly-violet-9593.21st.app/ (Variation 2)
 # FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI, Cluely, Perplexity, Xcode, Spawn & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models
 
 # 📜 Over **10,000+ lines** of insights into their structure and functionality.
